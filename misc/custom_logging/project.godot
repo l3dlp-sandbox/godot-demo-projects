@@ -15,7 +15,7 @@ config/description="This demo showcases a custom logger implementation, which ru
 to the built-in logging facilities (including file logging). The custom logger
 displays all messages printed by the engine in an in-game console."
 config/tags=PackedStringArray("demo", "official")
-run/main_scene="uid://c4urt6rf4yw71"
+run/main_scene="uid://bvwl54opy6eev"
 config/features=PackedStringArray("4.7")
 run/low_processor_mode=true
 
